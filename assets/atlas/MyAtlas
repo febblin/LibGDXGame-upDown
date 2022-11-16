@@ -1,0 +1,160 @@
+
+MyAtlas.png
+size: 512, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+death
+  rotate: false
+  xy: 88, 49
+  size: 50, 12
+  orig: 64, 64
+  offset: 14, 0
+  index: 4
+death
+  rotate: false
+  xy: 154, 20
+  size: 31, 35
+  orig: 64, 64
+  offset: 17, 0
+  index: 1
+death
+  rotate: false
+  xy: 187, 25
+  size: 34, 30
+  orig: 64, 64
+  offset: 15, 0
+  index: 2
+death
+  rotate: false
+  xy: 449, 44
+  size: 36, 25
+  orig: 64, 64
+  offset: 15, 0
+  index: 3
+jump
+  rotate: false
+  xy: 88, 63
+  size: 38, 55
+  orig: 64, 64
+  offset: 14, 0
+  index: 6
+jump
+  rotate: false
+  xy: 167, 57
+  size: 35, 61
+  orig: 64, 64
+  offset: 15, 0
+  index: 3
+jump
+  rotate: false
+  xy: 237, 69
+  size: 37, 49
+  orig: 64, 64
+  offset: 14, 0
+  index: 2
+jump
+  rotate: false
+  xy: 276, 67
+  size: 31, 51
+  orig: 64, 64
+  offset: 17, 0
+  index: 7
+jump
+  rotate: false
+  xy: 309, 63
+  size: 30, 55
+  orig: 64, 64
+  offset: 18, 0
+  index: 4
+jump
+  rotate: false
+  xy: 449, 71
+  size: 30, 47
+  orig: 64, 64
+  offset: 18, 0
+  index: 5
+jump
+  rotate: false
+  xy: 86, 5
+  size: 32, 42
+  orig: 64, 64
+  offset: 17, 0
+  index: 8
+jump
+  rotate: false
+  xy: 120, 5
+  size: 32, 42
+  orig: 64, 64
+  offset: 17, 0
+  index: 1
+run
+  rotate: false
+  xy: 2, 61
+  size: 45, 57
+  orig: 64, 64
+  offset: 10, 0
+  index: 6
+run
+  rotate: false
+  xy: 2, 2
+  size: 42, 57
+  orig: 64, 64
+  offset: 12, 0
+  index: 2
+run
+  rotate: false
+  xy: 49, 61
+  size: 37, 57
+  orig: 64, 64
+  offset: 14, 0
+  index: 1
+run
+  rotate: false
+  xy: 46, 3
+  size: 38, 56
+  orig: 64, 64
+  offset: 14, 0
+  index: 5
+run
+  rotate: false
+  xy: 128, 63
+  size: 37, 55
+  orig: 64, 64
+  offset: 14, 0
+  index: 7
+run
+  rotate: false
+  xy: 204, 62
+  size: 31, 56
+  orig: 64, 64
+  offset: 17, 0
+  index: 3
+run
+  rotate: false
+  xy: 341, 63
+  size: 26, 55
+  orig: 64, 64
+  offset: 20, 0
+  index: 4
+run
+  rotate: false
+  xy: 369, 64
+  size: 26, 54
+  orig: 64, 64
+  offset: 20, 0
+  index: 8
+stand
+  rotate: false
+  xy: 397, 58
+  size: 24, 60
+  orig: 64, 64
+  offset: 20, 0
+  index: 2
+stand
+  rotate: false
+  xy: 423, 57
+  size: 24, 61
+  orig: 64, 64
+  offset: 20, 0
+  index: 1
