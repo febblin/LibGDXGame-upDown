@@ -94,7 +94,7 @@ public class GameScreen implements Screen {
 
     @Override
     public void render(float delta) {
-        ScreenUtils.clear(Color.BLUE);
+        ScreenUtils.clear(Color.RED);
 
         camera.position.x = body.getPosition().x * PhysX.PPM;
         camera.position.y = body.getPosition().y * PhysX.PPM;
